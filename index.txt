@@ -1,0 +1,9 @@
+type nul > your_file.txt
+dir
+
+
+git init
+git status
+
+
+git add readme.md
