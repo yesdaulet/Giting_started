@@ -14,3 +14,5 @@ git commit -m "This is message"
 git log
 
 git add .
+
+git push
