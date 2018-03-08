@@ -10,3 +10,7 @@ git add readme.md
 
 
 git commit -m "This is message"
+
+git log
+
+git add .
